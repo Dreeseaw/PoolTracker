@@ -9,3 +9,7 @@
 webapp/node_modules
 webapp/build
 webapp/npm-debug.log*
+
+.DS_Store
+airflow/dags/__pycache__/
+airflow/logs/*
